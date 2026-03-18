@@ -12,7 +12,7 @@ Somos un laboratorio digital con base en Las Palmas de Gran Canaria. No una agen
 
 🌱 **Incubadora** — Construimos tecnología para proyectos con intención a cambio de equity. No somos una aceleradora. Construimos contigo.
 
-📦 **Productos** — Nuestras propias herramientas: [APPCC Digital](https://appccdigital.com) para seguridad alimentaria y Empresa SO para gestión operativa.
+📦 **Productos** — Nuestras propias herramientas: [APPCC Digital](https://appcc.digital) para seguridad alimentaria y Empresa SO para gestión operativa.
 
 🧪 **Lab** — Experimentamos, compartimos y publicamos lo que aprendemos. Herramientas abiertas, aprendizaje real.
 
@@ -23,12 +23,6 @@ Somos un laboratorio digital con base en Las Palmas de Gran Canaria. No una agen
 Entendemos antes de construir. Diseñamos la estructura antes de escribir código. Iteramos con comunicación constante. Y seguimos evolucionando después del lanzamiento.
 
 No prometemos lo que no podemos sostener. La tecnología es una herramienta, no un fin.
-
----
-
-### Nuestro stack
-
-Next.js · React · TypeScript · Node.js · Tailwind CSS · Python · PostgreSQL
 
 ---
 
